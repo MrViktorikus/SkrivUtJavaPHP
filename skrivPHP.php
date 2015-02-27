@@ -10,5 +10,6 @@
         <script src="hamta.js"></script>
     </head>
     <body>
+        <!--<form action=""></form>-->
     </body>
 </html>

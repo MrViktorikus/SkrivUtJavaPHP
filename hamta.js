@@ -7,6 +7,7 @@ $(document).ready(function() {
         $.each(data, function(index, value) {
             console.log(index + ": " + value);
             console.log(value.namn);
+            $("body").append(value.namn + "<br><br>");
         });
     });
 
